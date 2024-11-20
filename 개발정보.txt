@@ -1,0 +1,8 @@
+1. 개발 개요.
+ - 파일썬 Flask 을 통해 TEXTAREA 에 카카오 대화 내용을 넣으면, 해당 내용을 작성자 별로 저장 후 테이블로 구분하여 내용 화면에 표시.
+2. 개발소스 위치.
+ - 원본 : C:\Users\checc\PycharmProjects\redkakao
+ - 개발서버 : 모바일 개발서버 redprinting/kakaochat
+3. 개발 후기
+ - DB저장 및 파일 저장이 따로 없이 입력된 내용만 분리하여 바로 보여주는 기능만 있음.
+ - 추후 DB연동 가능. 파일 저장 가능.
